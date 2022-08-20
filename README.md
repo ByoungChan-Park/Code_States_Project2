@@ -18,6 +18,8 @@
 ---
 ### 각 폴더의 설명
 
-    E-commerce_Analysis : 로그데이터 분석을 담고있는 폴더입니다.  
+    E-commerce_Analysis : 로그데이터 분석을 담고있는 폴더
+                          (별도 README 내포)
 
-    Recommendation_System : 추천모델의 정당성과 모듈화를 담고있는 폴더입니다.
+    Recommendation_System : 추천모델의 정당성과 모듈화를 담고있는 폴더
+                            (별도 README 내포)
