@@ -1,8 +1,8 @@
 # 추천 모델링
 
 ### 구성 파일
-    evaluation_of_model : 추천프로그램 평가
     Recommendation_model : 아래 알고리즘을 구현한 추천프로그램
+    evaluation_of_model : 추천프로그램 평가
     images : README 첨부 사진
 
 ### 유저가 view를 실시한 상품이 10개 이하면 CB 11개 이상이면 CF
