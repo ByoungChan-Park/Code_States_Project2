@@ -33,7 +33,7 @@ CB 모델에서는 대주제 카테고리 또는 브랜드가 missing인 경우,
 
 ## Collaborative Filtering model<br>
 유저의 평점(관심도)를 예측하여 해당유저와 비슷한 유저의 구매상품을 추천하는 모델입니다.  
-![](./images/collaborative_filtering.jpg)<
+![](./images/collaborative_filtering.jpg)<br>
 사용하는 데이터는 각 유저마다 각 상품에 대한 조회수로 유저의 선호도를 명확히 나타내주는 데이터가 아닌 Implicit 데이터입니다.
 
 > ![](./images/matrix_decomposition.jpg)<br>
