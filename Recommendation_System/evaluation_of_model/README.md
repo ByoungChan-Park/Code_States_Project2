@@ -1,5 +1,10 @@
 # 추천 모델의 성능 평가
 
+## 구성 파일
+    evaluation_of_model_by_ALS.ipynb : 협업 필터링 모델의 성능평가(AUC score)
+    evaluation_of_model_by_cb.ipynb  : 콘텐츠 기반 필터링 모델의 성능 평가(Hitrate)
+<br>
+
 ## Contents Based model의 평가
 CB 모델은 해당 유저가 조회한 상품이 10개 이하일때 적용하는 모델입니다.  
 성능평가지표로는 Hitrate를 사용했습니다.  
