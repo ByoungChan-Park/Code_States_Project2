@@ -1,11 +1,11 @@
 # 데이터 분석<br><br>
 ## 구성파일
-    To_ActionPlan.ipynb : 액션플랜(마케팅방안) 도출
-    To_EDA.ipynb : 탐색적 데이터분석
-    data_problem.ipynb : 데이터 자체 문제점 확인
+           To_ActionPlan.ipynb : 액션플랜(마케팅방안) 도출
+                  To_EDA.ipynb : 탐색적 데이터분석
+            data_problem.ipynb : 데이터 자체 문제점 확인
     make_time_data_frame.ipynb : 시간대 기준 데이터프레임 생성
-    test_by_time.ipynb : 시간대 기준 통계적 분석
-    my_function.py : 통계분석 함수
+            test_by_time.ipynb : 시간대 기준 통계적 분석
+                my_function.py : 통계분석 함수
 
 ### 사용한 데이터
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d46b92d4-cfde-48b0-b675-d087252806f0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220531%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220531T025510Z&X-Amz-Expires=86400&X-Amz-Signature=d28dc8f25c1d7d44fc29c8f6909288e8ac07c2ba414e0a108d8f31b075fde488&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
