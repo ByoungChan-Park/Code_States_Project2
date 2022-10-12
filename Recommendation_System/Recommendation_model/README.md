@@ -1,3 +1,9 @@
+## 구성 파일
+              Bns.py : 추천 프로그램
+     test_case.ipynb : 테스트케이스 도입 결과
+    requirements.txt : 사용된 라이브러리 버전 모음
+<br>
+
 # Basic Usage  
 ```python
 import Bns  
